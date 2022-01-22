@@ -252,3 +252,6 @@ cython_debug/
 .ionide
 
 # Support for Project snippet scope
+
+bin/
+share/python-wheels/
