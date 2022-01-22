@@ -254,4 +254,4 @@ cython_debug/
 # Support for Project snippet scope
 
 bin/
-share/python-wheels/
+share/
