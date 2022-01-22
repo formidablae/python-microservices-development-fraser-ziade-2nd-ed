@@ -10,3 +10,7 @@ pip3 install quart
 python3 quart_basic.py
 
 curl -v http://localhost:5000/api
+
+
+python3 quart_details.py
+curl -v http://localhost:5000/api
