@@ -1,6 +1,7 @@
 import json
 import time
 
+
 def application(environ, start_response):
     headers = [('Content-Type', 'application/json')]
     start_response('200 OK', headers)
