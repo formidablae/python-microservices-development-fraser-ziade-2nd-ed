@@ -1,0 +1,4 @@
+{
+    "DEBUG": false,
+    "SQLURI": "postgres://username:xxx@localhost/db"
+}
